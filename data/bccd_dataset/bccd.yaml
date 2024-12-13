@@ -1,0 +1,4 @@
+train: data/bccd_dataset/train/images
+val: data/bccd_dataset/val/images
+nc: 3  
+names: ['RBC', 'WBC', 'Platelets']  
